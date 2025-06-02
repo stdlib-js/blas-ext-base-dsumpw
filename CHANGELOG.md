@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-26)
+## Unreleased (2025-06-02)
 
 <section class="features">
 
@@ -16,12 +16,25 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`95641f7`](https://github.com/stdlib-js/stdlib/commit/95641f75c1764479af76b23eac8a90101ee12f8d) - update implementation to preserve signed zeros
+-   [`da339ee`](https://github.com/stdlib-js/stdlib/commit/da339ee8d7e24972cbf4a1592b9174ef617978f8) - update implementation to preserve signed zeros
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="commits">
 
 ### Commits
 
 <details>
 
+-   [`95641f7`](https://github.com/stdlib-js/stdlib/commit/95641f75c1764479af76b23eac8a90101ee12f8d) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
+-   [`da339ee`](https://github.com/stdlib-js/stdlib/commit/da339ee8d7e24972cbf4a1592b9174ef617978f8) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
 -   [`9f85b5d`](https://github.com/stdlib-js/stdlib/commit/9f85b5d90cb6fcaf052116cd06aa4a693757f0ec) - **test:** fix description _(by Philipp Burckhardt)_
 -   [`074b9a1`](https://github.com/stdlib-js/stdlib/commit/074b9a191c77d297bab5cb51cf82a727a650fe58) - **feat:** add C `ndarray` API and refactor `blas/ext/base/dsumpw` [(#4329)](https://github.com/stdlib-js/stdlib/pull/4329) _(by Muhammad Haris)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
