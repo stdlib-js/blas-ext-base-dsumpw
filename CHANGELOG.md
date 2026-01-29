@@ -2,9 +2,9 @@
 
 > Package changelog.
 
-<section class="release" id="unreleased">
+<section class="release" id="v0.3.0">
 
-## Unreleased (2025-12-09)
+## 0.3.0 (2026-01-29)
 
 <section class="features">
 
@@ -34,6 +34,7 @@
 
 <details>
 
+-   [`2035f34`](https://github.com/stdlib-js/stdlib/commit/2035f344a1a469278042b7532f034dc6119933b3) - **docs:** add function documentation _(by Athan Reines)_
 -   [`387f879`](https://github.com/stdlib-js/stdlib/commit/387f87942ffbb3764f284afbb5682f059e0ba4d4) - **bench:** refactor to use dynamic memory allocation in `blas/ext/base/dsumpw` [(#8911)](https://github.com/stdlib-js/stdlib/pull/8911) _(by Krishna Awasthi)_
 -   [`cf4140d`](https://github.com/stdlib-js/stdlib/commit/cf4140d45ad394171a01c08307a51c70aa25ece0) - **feat:** add `stats/strided/wasm/dmeanpw`  [(#7100)](https://github.com/stdlib-js/stdlib/pull/7100) _(by Prashant Kumar Yadav, Athan Reines, stdlib-bot)_
 -   [`95641f7`](https://github.com/stdlib-js/stdlib/commit/95641f75c1764479af76b23eac8a90101ee12f8d) - **fix:** update implementation to preserve signed zeros _(by Athan Reines)_
