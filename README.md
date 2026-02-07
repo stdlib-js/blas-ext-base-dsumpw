@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dsumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsumpw@deno/mod.js';
+import dsumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsumpw@v0.3.1-deno/mod.js';
 ```
 
 #### dsumpw( N, x, strideX )
@@ -146,7 +146,7 @@ var v = dsumpw.ndarray( 4, x, 2, 1 );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import dsumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsumpw@deno/mod.js';
+import dsumpw from 'https://cdn.jsdelivr.net/gh/stdlib-js/blas-ext-base-dsumpw@v0.3.1-deno/mod.js';
 
 var x = discreteUniform( 10, -100, 100, {
     'dtype': 'float64'
